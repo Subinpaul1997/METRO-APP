@@ -1,0 +1,17 @@
+
+
+.stationSelector{
+    padding: 10px 10%;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.select{
+    padding: 10px 10%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

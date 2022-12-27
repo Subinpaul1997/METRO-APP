@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+.topbarContainer{
+    height: 120px;
+    background-color:rgb(247, 169, 86);
+    display: flex;
+    align-items: center;
+     
+}
+
+.topLeft{
+ flex: 50%;   
+}
+
+
+.logo{
+ height: 100px;
+ margin-left: 25px;
+ margin-top: 5px;
+ border-radius: 50%;
+
+}
+
+.topCenter{
+ flex:69%
+ 
+}
+
+.topCenter{
+    display: flex;
+    align-items: center;
+}
+
+.name{
+ font-size: 35px; 
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: rgb(82, 72, 72);
+}

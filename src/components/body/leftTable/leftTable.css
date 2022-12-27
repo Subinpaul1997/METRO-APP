@@ -1,0 +1,8 @@
+.leftContainer{
+    height: 500px;
+    width: 350px;
+    background-color: lightgrey;
+    overflow-y: scroll;
+    border-style: solid;
+    
+}
